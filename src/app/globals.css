@@ -20,7 +20,7 @@
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #090d16; /* Um tom escuro moderno e suave */
+  color: #f3f4f6;            /* Texto branco/cinza claro */
+  font-family: system-ui, -apple-system, sans-serif;
 }
